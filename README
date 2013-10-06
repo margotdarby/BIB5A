@@ -1,0 +1,3 @@
+This is a backbone/bootstrap/flickrAPI demo that is the reverse of the flitterBoot series: The html markup is structured as regular markup, with the separate templates for each element placed manually into the markup source.
+
+Here the flickr photos are automatically pulled down and arranged. An EVEN SIMPLER and more elementary version of this would to pull down two or three specific photos by ID number. Or eliminate the flickr call entirely and show whatever is in a local image folder.
